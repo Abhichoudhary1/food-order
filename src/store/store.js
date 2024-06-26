@@ -1,0 +1,1 @@
+import {Configurestore} from 'reac'
